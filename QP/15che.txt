@@ -1,0 +1,882 @@
+                                            AIPMT - 2015
+                                         Set – E, Chemistry
+Note: Answers have been highlighted in “Yellow” color and Explanations to answers are given at the end
+
+Important Instructions:
+
+1.     The Answer Sheet is inside this Test Booklet. When you are directed to open the Test Booklet, take
+       out the Answer Sheet and fill in the particulars on side – 1 and side – 2 carefully with blue/black ball
+       point pen only.
+
+2.     The test is of 3 hours duration and Test Booklet contains 180 questions. Each question carries 4
+       marks. For each correct response, the candidate will get 4 marks. For each incorrect response, one
+       mark will be deducted from the total scores. The maximum marks are 720.
+
+3.     Use Blue/Black Ball Point only for writing particulars on this page/marking responses.
+
+4.     Rough work is to be done on the space provided for this purpose in the Test Booklet only.
+
+5.     On completion of the test, the candidate must handover the Answer Sheet to the invigilator before
+       leaving Room/Hall. The candidates are allowed to take away this Test Booklet with them.
+
+6.     The CODE for this Booklet is E. Make sure that the CODE printed on Side – 2 of the Answer Sheet is
+       the same as that on this Booklet. In case of discrepancy, the candidate should immediately report the
+       matter to the Invigilator for replacement of both the Test Booklet and the Answer Sheet.
+
+7.     The candidate should ensure that the Answer Sheet is not folded. Do not make any stray marks on
+       the Answer Sheet. DO write your roll no. anywhere else except in the specified space in the Test
+       Booklet/ Answer Sheet.
+
+8.     Use of white fluid for correction NOT permissible on the Answer Sheet.
+
+9.     Each candidate must shown on demand his/her Admission Card to the Invigilator.
+
+10.    No candidate, without special permission of the Superintendent or Invigilator, would leave his/her
+       seat.
+
+11.    The candidates should not leave the Examination Hall without handling over their Answer Sheet to
+       the Invigilator on duty and sign the Attendance Sheet twice. Cases where a candidate has not sign the
+       Attendance Sheet second time will be deemed not be have handed over Answer Sheet and dealt with
+       as an unfair means case.
+
+12.    Use of Electronic/Manual Calculator is prohibited.
+
+13.    The candidates are governed by all Rules and Regulations of the Board with regard to their conduct in
+       the Examination Hall. All cases or unfair means will be dealt with as per Rules and Regulations of the
+       Board.
+
+                                                                                                          Page|1
+14.    No part of the Test Booklet and Answer Sheet shall be detached under any circumstances.
+
+15.    The candidates will write the Correct Test Booklet Code is given in the Test Booklet/Answer Sheet in
+       the Attendance Sheet.
+
+Note: Answers have been highlighted in “Yellow” color and Explanations to answers are given at the end
+
+Q.46   Which of the following species contains equal number of σ – and π bonds?
+
+       (1)
+
+       (2) XeO4
+
+       (3) (CN)2
+
+       (4) CH2(CN)2
+
+Q.47   The species Ar, K+ and Ca2+ contains the same number of electrons. In which order do their radii
+       increase?
+
+       (1) Ar<K+ < CA2+
+
+       (2) Ca2+ < Ar < K+
+
+       (3) Ca2+ < K+ < Ar
+
+       (4) K+ < Ar < Cr2+
+
+Q.48   The function of “sodium pump” is a biological process operating in each and every cell of all
+       animals. Which of the following biologically important ions is a also a constitute of this pump?
+
+       (1) Ca2+
+
+       (2) Mg2+
+
+       (3) K+
+
+       (4) Fe2+
+
+Q.49   “Metals are usually not found as nitrates in their ores”
+
+       Out of the following two (a and b) reason which is/ are true for the above observation/
+
+       (a) Metal nitrates are highly unstable.
+
+       (b) Metal nitrates are highly soluble in water.
+
+       (1) a and b are false
+
+       (2) a and b are false
+
+       (3) a is false but b is true
+
+       (4) a is true but b is false
+
+                                                                                                      Page|2
+Q.50   Solubility of the alkaline earth’s metal sulphates in water decreases in the sequence:
+
+       (1) Mg > Ca > Sr > Ba
+
+       (2) Ca > Sr > Ba > Mg
+
+       (3) Sr > Ca > Mg > Ba
+
+       (4) Ba > Mg > Sr > Ca
+
+Q.51   Because of lanthanoid contraction, which of the following pairs of elements have nearly same
+       atomic radii? (Numbers in the parenthesis are atomic numbers).
+
+       (1) Ti (22) and Zr (40)
+
+       (2) Zr (40) and Nb (41)
+
+       (3) Zr (40) and Hf (72)
+
+       (4) Zr (40) and Ta (73)
+
+Q.51   Which of the following processes does not involve oxidation of iron?
+
+       (1) Rusting of iron sheets
+
+       (2) Decolourization of blue CuSO4 solution by iron
+
+       (3) Formation of Fe(CO)5 from Fe
+
+       (4) Liberation of H2 from steam by iron at high temperature
+
+Q.53   Which of the following pairs of ions are isoelectronic and isostructural?
+
+       (1)      ,
+
+       (2)
+
+       (3)
+
+       (4)
+
+Q.54   Which of the following option represents the correct bond oreder?
+
+       (1)    > O2 >
+
+       (2)    < O2 <
+
+       (3)    > O2 <
+
+       (4)    < O2 >
+
+Q.55   Nitrogen dioxide and sulphur dioxide have some properties in common. Which property is
+       shown by one of these compounds, but not by the other?
+
+
+                                                                                                 Page|3
+       (1) forms ‘acid –rain’
+
+       (2) is a reducing agent
+
+       (3) is soluble in water
+
+       (4) is used as a food – preservative
+
+Q.56   maximum bond angle at nitrogen is present bin which of the following?
+
+       (1) NO2
+
+       (2)
+
+       (3)
+
+       (4)
+
+Q.57   Magnetic moments 2.84 B.M> is given by (At nos, Ni= 28, Ti = 22, Cr= 24, CO= 27)
+
+       (1) Ni2+
+
+       (2) Ti3+
+
+       (3) Cr2+
+
+       (4) CO2+
+
+Q.58   Cobalt (III) chloride forms several octahedral complexes with ammonia. Which of the following
+       will not give test for chloride ions with silver nitrate at 25 ℃?
+
+       (1) CoCl3∙3NH3
+
+       (2) CoCl3 ∙4NH3
+
+       (3) CoCl3∙5NH3
+
+       (4) CoCl3∙6NH3
+
+Q.59   Which of these statements about [Co(CN)3l3- is true?
+
+       (1) [Co (CN) 6]3- has no unpaired electrons and will be in a low-spin configuration.
+
+       (2) [Co (CN) 6]3- has four unpaired electrons and will be in a low-spin configuration.
+
+       (3) [Co (CN) 6]3- has four unpaired electrons and will be in a high-spin configuration.
+
+       (4) [Co (CN) 6]3- has no unpaired electrons and will be a high-spin configuration.
+
+Q.60   The activation energy of a reaction can be determined from the slope which of the following
+       graphs?
+
+       (1) In K vs. T
+
+
+                                                                                                 Page|4
+       (2)       vs. T
+
+       (3) In K vs.
+
+       (4)       vs.
+
+Q.61   Which one is not equal to zero for an ideal solution?
+
+       (1) ∆Hmix
+
+       (2) ∆Smix
+
+       (3) ∆Vmix
+
+       (4) ∆P =Pobserved - PRaoult
+
+Q.62   A mixture of gases contains H2 and O2 gases in the ratio of 1:4 (w/w). what is the molar ratio of
+       the two gases in the mixture.
+
+       (1) 1:4
+
+       (2) 4:1
+
+       (3) 16:1
+
+       (4) 2:1
+
+Q.63   A given metal crystallizes out with a cubic structure having edge length of 361 pm. If there are
+       four metal atoms in one unit cell, what is the radius of one atom?
+
+       (1) 40 pm
+
+       (2) 127 pm
+
+       (3) 80 pm
+
+       (4) 108 pm
+
+Q.64   When initial concentration of a reactant doubles in a reaction, its half-life period is not affected.
+       The order of the reaction is:
+
+       (1) Zero
+
+       (2) First
+
+       (3) Second
+
+       (4) More than zero but less than first
+
+Q.65   If the value of an equilibrium constant for a particular reaction is 1.6 × 1012, then at equilibrium
+       the system will contains:
+
+
+
+                                                                                                       Page|5
+       (1) all reactants.
+
+       (2) mostly reactants
+
+       (3) mostly products
+
+       (4) similar amount of reactants and products
+
+Q.66   A device that convert energy of combustion of fuels like hydrogen and methane, directly into
+       electrical energy is known as:
+
+       (1) Fuel Cell
+
+       (2) Electrolytic Cell
+
+       (3) Dynamo
+
+       (4) Ni-Cd cell
+
+Q.67   The boiling point of 0.2 mol kg-1 solution of X in water is greater than equimolal solution of Y in
+       water. Which one of the following statements is true in this case?
+
+       (1) X is undergoing dissociation in water.
+
+       (2) Molecular mass of X is greater than the molecular mass of Y.
+
+       (3) Molecular mass of X is less than the molecular mass of Y.
+
+       (4) Y is undergoing dissociation in water while X undergoes no change.
+
+Q.68   Which one the following electrolytes has the same value of van’t factor (i) as that of Al2(SO4)3 (if
+       all are 100% ionised)?
+
+       (1) K2SO4
+
+       (2) K3]Fe(CN)6]
+
+       (3) Al(NO3)3
+
+       (4) K4[Fe(CN)6]
+
+Q.69   The number of d-electrons in Fe2+ (Z = 26) is not equal to the number of electrons in which one
+       of the following?
+
+       (1) s-electrons in Mg (Z = 12)
+
+       (2) p – electrons in Cl (Z = 17)
+
+       (3) d – electrons in Fe (Z = 26)
+
+       (4) p – electrons in Ne (Z = 10)
+
+Q.70   The correct bond order in the following species is:
+
+
+                                                                                                      Page|6
+       (1)       <    <
+
+       (2)       <    <
+
+       (3)       <    <
+
+       (4)       <    <
+
+Q.71   The angular momentum of electron in ‘d’ orbital is equal to:
+
+       (1) √6 ℏ
+
+       (2) √2 ℏ
+
+       (3) √3 ℏ
+
+       (4) 0 ℏ
+
+Q.72   The Ksp of Ag2CrO4, AgCl, AgBr and Agl are respectively, 1.1 × 10-12, 1.8 × 10-10, 5.0 × 10-13, 8.3 ×
+       10-17. Which one of the following salts will precipitate last if AgNO3 solution is added to the
+       solution containing equal moles of NaCl, NaBr, Nal and Na2CrO4?
+
+       (1) Agl
+
+       (2) AgCl
+
+       (3) AgBr
+
+       (4) Ag2CrO4
+
+Q.73   Which property of colloidal solution is independent of charge on the colloidal particles.
+
+       (1) Coagulation
+
+       (2) Electrophoresis
+
+       (3) Electro-osmosis
+
+       (4) Tyndall effect
+
+Q.74   Which of the following statements is correct for a reversible process in a state of equilibrium?
+
+       (1) ∆G = 2.30 RT log K
+
+       (2) ∆G = 2.30 RT log K
+
+       (3) ∆G° = - 2.30 RT log K
+
+       (4) ∆G° = 2.30 RT log K
+
+Q.75   Bithional is generally added to the soaps as an additive function as a /an:
+
+       (1) Softener
+
+
+                                                                                                       Page|7
+        (2) Dryer
+
+        (3) Buffering agent
+
+        (4) Antiseptic
+
+
+
+Q.76    The electrolytic reduction of nitrobenzene in strongly acidic medium produces:
+
+        (1) p-Aminophenol
+
+        (2) Azoxybenzene
+
+        (3) Azobenzene
+
+        (4) Aniline
+
+Q.77    In duma’s method for estimation of nitrogen 0.25 g of an organic compound gave 40 mL of
+        nitrogen collected at 300 K temperature and 725 mm pressure. If the aqueous tension at 300 K is
+        25 mm, the percentage of nitrogen in the compound is :
+
+        (1) 17.36
+
+        (2) 18.20
+
+        (3) 16.76
+
+        (4) 15.76
+
+Q.78    In which of the following compounds, the C – Cl bond ionization shall give most stable carbonium
+        ion?
+
+
+
+
+(3) is the correct option
+
+Q.79    The reaction
+
+
+
+
+                                                                                                  Page|8
+       is called:
+
+       (1) Williamson synthesis
+
+       (2) Williamson continuous etherification process
+
+       (3) Etard reaction
+
+       (4) Gatterman-Koch reaction
+
+Q.80   The reaction of C6H5CH = CHCH3 with HBr produces:
+
+       (1) C6 H5 C HCH 2CH3
+                    |
+                    Br
+
+
+
+
+       (2) C6 H5CH 2 C HCH3
+                         |
+                         Br
+
+
+
+
+       (3) C6 H5CH 2CH 2CH 2 Br
+
+       (4)
+
+
+
+
+Q.81   A single compound of the structure
+
+
+
+       is obtained from ozonolysis of which of the following cyclic compounds?
+
+
+
+
+                                                                                 Page|9
+       (1) is the correct option
+
+
+Q.82   Treatment of cyclopentanone           with methyl lithium gives which of the following species?
+
+       (1) Cyclopentanonyl anion
+
+       (2) Cyclopentanonyl cation
+
+       (3) Cyclopentanonyl cation
+
+       (4) Cyclopentanonyl biradical
+
+Q.83   Consdider the following compounds
+
+
+
+
+       Hyperconjugation occurs in:
+
+       (1) I only
+
+       (2) II only
+
+       (3) III only
+
+       (4) I and III
+
+Q.84   Which of the following is the most correct electron displacement for a nucleophilic reaction to
+       take place?
+
+
+
+
+                                                                                                  Page|10
+       (3) is the correct option
+
+Q.85   The enolic of ethl acetoacetate as below has:
+
+
+
+
+       (1) 18 sigma bonds and 2 pi- bonds
+
+       (2) 16 sigma bonds and 1 pi- bond
+
+       (3) 9 sigma bonds and 2 pi- bonds
+
+       (4) 9 sigma bonds and 1 pi-bonds
+
+Q.86   Given:
+
+
+
+
+       Which of the given compounds can exhibit tauomerism?
+
+       (1) I and II
+
+       (2) I and III
+
+       (3) II and III
+
+       (4) I,II and III
+
+Q.87   Given:
+
+
+
+
+       The enthalpy of hydrogenation of these compounds will be in the order is:
+
+       (1) I > II > III
+
+       (2) III > II > I
+
+       (3) II > III > I
+
+                                                                                   Page|11
+       (4) II > I > III
+
+Q.88   Biodegradable polymer which can be produced from glycine and aminocaproic acid is:
+
+       (1) Nylon 2 – Nylon 6
+
+       (2) PHBV
+
+       (3) Buna – N
+
+       (4) Nylon 6, 6
+
+Q.89   The total number of π – bond electrons in the following structure is :
+
+
+
+
+       (1) 4
+
+       (2) 8
+
+       (3) 12
+
+       (4) 16
+
+Q.90   An organic compound ‘X’ having molecular formula C5H10O yields phenyl hydrazine and gives
+       negative response to the lodoform test and tollen’s test. It produces n-pentane on reduction. ‘X’
+       could be:
+
+       (1) pentanal
+
+       (2) 2- pentanone
+
+       (3) 3- pentanone
+
+       (4) n- amylalchohol
+
+
+
+
+                                                                                                   Page|12
+                                     Answer Key and Explanations
+Sol.46 (2)
+
+
+
+
+       Xeo4 consists of equal no π and σ bonds i.e. 4
+
+Sol. 47 (3)
+
+       Based upon effective nuclear charge
+
+       Ca2+ → np = 20, ne = 18
+
+       K+ → np = 19, ne = 18
+
+       Ar → np = 18, ne = 18 → largest
+
+Sol.48 (3)
+
+       K+ & Na+ are present in inside & outside the cell which maintains gradient.
+
+Sol.49 (3)
+
+       Metal nitrates are highly unstable.
+
+Sol.50 (1)
+
+       Solubility of alkaline earth metal decreases down the group because their hydration enthalpy
+       decreases.
+
+Sol.51 (3)
+
+       Zr & Hf are also known as chemical twins because of same size.
+
+Sol.52 (3)
+
+       In Fe(Co)5 iron does not oxidize.
+
+Sol.53 (4)
+
+               &       . ne = 26, Same no. of electrons
+
+Sol.54 (2)
+
+       B∙O. O2 = (6-2) = 2
+
+       B∙ O.       = (6 - 3) = 1.5
+
+
+
+                                                                                                Page|13
+       B∙O.     = (6 - 1) = 2.5
+
+       ⇒      > O2 >
+
+Sol.55 (4)
+
+       SO2 is used as food preservative.
+
+       NO2 is not used instead N2 is used.
+
+Sol.56 (3)
+
+              because there is no. e- here on nitrogen atom.
+
+Sol.57 (1)
+
+       B.M. = √ (       2)
+
+              → 2 unpaired e- √2(4) = √8 = 2.84 BM
+
+              → 1 unpaired e-
+
+       Cr2+ → 4 unpaired e-
+
+       CO2+ → 3 unpaired e-
+
+Sol.58 (1)
+
+       In [Co(NH3)3Cl3] i.e. [CoCl3 ∙ 3NH3] the no. Cl- anions will be O, so it will not give test for chloride
+       with AgNo3 at 25℃.
+
+Sol.59 (1)
+
+       In [Co(CN)6]3- CO+3 forms d2sp3configuration CN is strong lig and responsible for no unpaired e-
+       and low spin complex.
+
+Sol.60 (3)
+
+       K = Ae-Ea/RT
+
+
+
+
+Sol.61 (2)
+
+       For ideal solution entropy increases ∆Smix ≠ O
+
+Sol.62 (2)
+
+
+                                                                                                         Page|14
+              =
+
+              =       ×    = ×
+
+              =
+
+       = 4:1
+
+Sol.63 (2)
+
+       The given crystal is face centered cubic
+
+
+
+
+       4r = √2
+
+       a = 2 √2
+
+       r=         =       = 127
+              √       √
+
+Sol. 64 (2)
+
+       t1/2 =      which is independent of concentration of A thus first order
+
+Sol.65 (3)
+
+       Kc =       = 16 × 1012
+
+       Kc is very high so reaction is about to complete and consists mostly products will be there.
+
+Sol.66 (1)
+
+       Fuel cell is used for combustion of H2 and CH4
+
+Sol.67 (1)
+
+       ( ∆Tb) = Kxmx I (∆T )      (∆T )
+
+       If x under goes dissociation so i > 1
+
+       ∴ (∆Tb)x       (∆Tb)y
+
+Sol.68 (4)
+
+        i depends on ions number
+
+
+                                                                                                      Page|15
+       Al2(SO)3 – 5 ions
+
+       K4 [Fe(CN)6] – 4 + 1 = 5 ions
+
+Sol.69 (2)
+
+       No, of Cl electrons in Fe2+ = 4s0 3d6 = 6
+
+       P electron in Cl = 1s22s22p63s23p5
+
+       Total no enp = 11
+
+Sol.70 (4)
+
+       BO of       = (6 - 0) = 3
+
+             = (6 - 1) = 2.5
+
+             = (6 - 3) = 1.5
+
+Sol.71 (1)
+
+       Angular momentum = √ (          1)ℏ
+
+       l = 2 for d orbital
+
+       = √2 (2     1) ℏ
+
+       = √6 ℏ
+
+Sol.72 (4)
+
+       Ag2CrO4 will precipitate last
+
+Sol.73 (4)
+
+       Tyndall effect is independent of charge
+
+Sol.74 (3)
+
+       at equilibrium
+
+       ∆G° = -2.303 RT logK
+
+Sol.75 (4)
+
+       Bithional is antiseptic
+
+Sol.76 (1)
+
+       In strongly acidic medium nitrobenzene produces p-amino phenol
+
+Sol.77 (3)
+
+                                                                        Page|16
+       %N =
+
+       = 16.76
+
+Sol.78 (3)
+
+
+
+
+       Is most stable carbonium
+
+Sol.79 (1)
+
+       Williamsons Synthesis is a not a continuous esterification process reaction involved
+
+       R – X + R – O Na → R – O – Rl
+
+Sol.80 (1)
+
+       C6H5 – CH = CHCH3 follow Markovnikov's Rule with
+
+
+
+
+       C6 H5 -C H-CH 2 -CH3
+              |
+              Br
+
+
+
+Sol.81 (1)
+
+
+
+
+                                                                                              Page|17
+Sol.82 (1)
+
+
+
+
+Sol.83 (3)
+
+       Only in (3) there are α-H atoms, so hyproconjugation occurs in III only.
+
+Sol.84 (3)
+
+
+
+
+       So in (3) you will get stable contribution for nucleophile reaction
+
+Sol.85 (1)
+
+       Enolic form consists of
+
+       18 σ & 2π bonds
+
+Sol.86 (4)
+
+       In (I, II,III) Consists of α H atoms hence shows tautomerism
+
+Sol.87 (2)
+
+       Enthapy of (III) is more then all
+
+Sol.88 (1)
+
+       Nylon -2 Nylon -6 is an alternating polynomial copolymers of glycine (NH2- CH2- COOH) &
+       aminocaproic acid [NH2(CH2)5COOH] & is biodegradable.
+
+Sol.89 (2)
+
+       4π bonds – 8π e-s
+
+Sol.90 (3)
+             O
+             ||
+       C-C-C-C-C
+
+       3-pentanone gives negative iodoform test and tollens test.
+
+                                                                                                 Page|18
+

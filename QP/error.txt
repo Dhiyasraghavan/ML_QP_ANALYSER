@@ -1,0 +1,214 @@
+✅ Models loaded successfully in 1.74s
+✅ Smart analyzer loaded successfully!
+📊 Enhanced 17 features extracted and cached
+✅ Loaded enhanced stats: stats.csv in 0.47s
+
+🔍 DEBUG: Testing PDF extraction for model_sample.pdf
+📄 Testing text extraction...
+⚠️ Very little text extracted, trying forced extraction...
+✅ Text extracted: 57 characters (meaningful: 0)
+📝 First 500 characters:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 Text stats: 58 total lines, 0 non-empty lines
+
+🔍 Testing question parsing...
+❌ No questions parsed
+🔍 Looking for potential question patterns...
+❌ No question patterns found
+
+🔍 Analyzing model_sample.pdf
+⚠️ No questions found
+⚠️ No valid questions found in any PDF.
+
+✅ Models loaded successfully in 1.67s
+✅ Smart analyzer loaded successfully!
+📊 Enhanced 17 features extracted and cached
+✅ Loaded enhanced stats: stats.csv in 0.53s
+
+🔍 DEBUG: Testing PDF extraction for FTS-10_(Code-A)_05-07-2022. (1).pdf
+📄 Testing text extraction...
+⚠️ Very little text extracted, trying forced extraction...
+✅ Text extracted: 17 characters (meaningful: 0)
+📝 First 500 characters:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 Text stats: 18 total lines, 0 non-empty lines
+
+🔍 Testing question parsing...
+❌ No questions parsed
+🔍 Looking for potential question patterns...
+❌ No question patterns found
+
+🔍 Analyzing FTS-10_(Code-A)_05-07-2022. (1).pdf
+⚠️ No questions found
+⚠️ No valid questions found in any PDF.
+✅ Models loaded successfully in 1.63s
+✅ Smart analyzer loaded successfully!
+📊 Enhanced 17 features extracted and cached
+✅ Loaded enhanced stats: stats.csv in 0.56s
+
+🔍 DEBUG: Testing PDF extraction for 22all.pdf
+📄 Testing text extraction...
+⚡ pdftotext extraction: 172900 chars
+✅ Text extracted: 172900 characters (meaningful: 85873)
+📝 First 500 characters:
+DATE : 17/07/2022                                                                              Test Booklet Code
+
+
+
+                                                                                                     Q1
+                                                                                                      BHOLA
+
+
+
+
+                              Answers & Solutions
+Time : 3 hrs. 20 Min.                                 for                                               M.M
+📊 Text stats: 3536 total lines, 2812 non-empty lines
+📋 Sample non-empty lines:
+   Line 1: 'DATE : 17/07/2022                                                                              Test ...'
+   Line 2: 'Q1...'
+   Line 3: 'BHOLA...'
+   Line 4: 'Answers & Solutions...'
+   Line 5: 'Time : 3 hrs. 20 Min.                                 for                                           ...'
+
+🔍 Testing question parsing...
+✅ Smart analyzer extracted 9 questions
+✅ Questions parsed: 9
+   Q1: 'Which of the following statements with respect to Endoplasmic Reticulum is incorrect? Sol. In prokar...' (44 options)
+   Q2: 'Which of the following is not the function of conducting part of respiratory system? constitute the ...' (37 options)
+   Q3: 'Select the incorrect statement with reference to mitosis: Sol. Spindle fibres attach to the kinetoch...' (16 options)
+
+🔍 Analyzing 22all.pdf
+✅ Smart analyzer extracted 9 questions
+🎯 Cutoff: Weighted=480.0, Historical=1630.2
+📄 File: 22all.pdf
+📝 Questions: 9
+   🟢 Easy: 1
+   🟡 Moderate: 8
+   🔴 Tough: 0
+🧠 Confidence: N/A
+(Normalized view) Easy: 3, Moderate: 3, Tough: 3
+🎯 Predicted Cutoff: 720/720
+──────────────────────────────────────────────────
+
+📊 FINAL SUMMARY
+📑 Files Processed: 1
+🧮 Total Questions: 9
+   🟢 Easy: 1
+   🟡 Moderate: 8
+   🔴 Tough: 0
+👥 Attendees: 23487315
+🎯 AVERAGE PREDICTED CUTOFF: 720.0/720
+⚡ Performance: 0.19s total, 0.19s per file
+💾 Cache hits: 1 results cached
+✨ Optimized Analysis: Enhanced accuracy with improved performance
+
+the predictions are sooo sooo bad, even the last logics and codes were so good, in between somewhere it went so wrong for all this, I gave attendees as=23,487,315
+
+
+✅ Models loaded successfully in 1.66s
+✅ Smart analyzer loaded successfully!
+📊 Enhanced 17 features extracted and cached
+✅ Loaded enhanced stats: stats.csv in 0.57s
+
+🔍 Analyzing 22all.pdf
+⚡ pdftotext extraction: 172900 chars
+✅ Smart analyzer extracted 9 questions
+🎯 Cutoff: Weighted=480.0, Historical=592.7
+📄 File: 22all.pdf
+📝 Questions: 9
+   🟢 Easy: 1
+   🟡 Moderate: 8
+   🔴 Tough: 0
+🧠 Confidence: N/A
+(Normalized view) Easy: 3, Moderate: 3, Tough: 3
+🎯 Predicted Cutoff: 548/720
+──────────────────────────────────────────────────
+
+📊 FINAL SUMMARY
+📑 Files Processed: 1
+🧮 Total Questions: 9
+   🟢 Easy: 1
+   🟡 Moderate: 8
+   🔴 Tough: 0
+👥 Attendees: 1872343
+🎯 AVERAGE PREDICTED CUTOFF: 548.0/720
+⚡ Performance: 0.67s total, 0.67s per file
+💾 Cache hits: 1 results cached
+✨ Optimized Analysis: Enhanced accuracy with improved performance
+
+for this, I gave attendees as=1872343

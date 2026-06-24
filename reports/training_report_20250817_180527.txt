@@ -1,0 +1,41 @@
+================================================================================
+NEET ANALYZER - MODEL TRAINING REPORT
+Generated: 2025-08-17 18:05:27
+================================================================================
+
+✅ Successfully trained 3 model(s)
+
+📊 DIFFICULTY CLASSIFIER:
+   Model Type: Enhanced LinearSVC with TF-IDF
+   Training Date: 2025-08-17 18:05:20
+   Test Accuracy: 0.450
+   Training Samples: 572
+
+📊 CUTOFF PREDICTOR:
+   Model Type: Enhanced RIDGE
+   Training Date: 2025-08-17 18:05:25
+   Test MAE: 35.51
+   Test R²: -54.217
+   CV MAE: 24.32
+   Features Used: 37
+   Training Samples: 9
+
+📊 ENSEMBLE:
+   Model Type: Supreme Ensemble
+   Training Date: 2025-08-17 18:05:27
+   Test MAE: 38.89
+   Test R²: -60.676
+   Features Used: 29
+
+💡 RECOMMENDATIONS:
+----------------------------------------
+✅ Ensemble model trained - use for best accuracy
+❌ Difficulty classifier needs more training data
+
+🔄 To improve model performance:
+   1. Collect more diverse training data
+   2. Add more years to historical statistics
+   3. Include domain expert annotations
+   4. Regular model retraining with new data
+
+================================================================================
